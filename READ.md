@@ -18,7 +18,7 @@ Applications you need to execute the project and how to setup and configure them
 Terminal
 Python  
 PyCharm (IDE)
-GIT 
+GITHub 
 ```
 
 ### Installing/Configuring
