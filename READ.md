@@ -99,17 +99,15 @@ No Applicable.
 
 ## Contributing
 
-Please read [READ.md](https://gist.github.com/rshagufta/b24679402957c63ec426) for details on my code of conduct, and the process for submitting pull requests to us.
+Please read [READ.md](https://github.com/rshagufta/data_process/blob/master/READ.md) for details on my code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-I have used [GITHub](http://github/) for versioning. For the available versions , see the [tags on this repository](https://github.com/rshagufta/project/tags). 
+I have used [GITHub](https://github.com/rshagufta) for versioning. For the available versions , see the [tags on this repository](https://github.com/rshagufta/data_process.git). 
 
 ## Authors
 
 * **S. Ora** - *Initial work* - [GITHub](https://github.com/rshagufta)
-
-See also the list of [contributors](https://github.com/rshagufta/project/contributors) who participated in this project.
 
 ## License
 
